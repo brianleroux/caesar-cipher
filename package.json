@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher",
+  "version": "0.1.0",
+  "description": "Useless but fun. A quick implementation of the Caesar Cipher.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brianleroux/caesar-cipher"
+  },
+  "keywords": [
+    "cipher",
+    "caesar"
+  ],
+  "author": "Brian LeRoux",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/brianleroux/caesar-cipher/issues"
+  }
+}
